@@ -1,0 +1,501 @@
+﻿GeographyKey,Country,City,Warehouse_Region
+1,Australia,Berlin,Central
+2,Australia,Berlin,East
+3,Australia,Berlin,North
+4,Australia,Berlin,South
+5,Australia,Berlin,West
+6,Australia,Dubai,Central
+7,Australia,Dubai,East
+8,Australia,Dubai,North
+9,Australia,Dubai,South
+10,Australia,Dubai,West
+11,Australia,Karachi,Central
+12,Australia,Karachi,East
+13,Australia,Karachi,North
+14,Australia,Karachi,South
+15,Australia,Karachi,West
+16,Australia,London,Central
+17,Australia,London,East
+18,Australia,London,North
+19,Australia,London,South
+20,Australia,London,West
+21,Australia,Mumbai,Central
+22,Australia,Mumbai,East
+23,Australia,Mumbai,North
+24,Australia,Mumbai,South
+25,Australia,Mumbai,West
+26,Australia,New York,Central
+27,Australia,New York,East
+28,Australia,New York,North
+29,Australia,New York,South
+30,Australia,New York,West
+31,Australia,Paris,Central
+32,Australia,Paris,East
+33,Australia,Paris,North
+34,Australia,Paris,South
+35,Australia,Paris,West
+36,Australia,Riyadh,Central
+37,Australia,Riyadh,East
+38,Australia,Riyadh,North
+39,Australia,Riyadh,South
+40,Australia,Riyadh,West
+41,Australia,Sydney,Central
+42,Australia,Sydney,East
+43,Australia,Sydney,North
+44,Australia,Sydney,South
+45,Australia,Sydney,West
+46,Australia,Toronto,Central
+47,Australia,Toronto,East
+48,Australia,Toronto,North
+49,Australia,Toronto,South
+50,Australia,Toronto,West
+51,Canada,Berlin,Central
+52,Canada,Berlin,East
+53,Canada,Berlin,North
+54,Canada,Berlin,South
+55,Canada,Berlin,West
+56,Canada,Dubai,Central
+57,Canada,Dubai,East
+58,Canada,Dubai,North
+59,Canada,Dubai,South
+60,Canada,Dubai,West
+61,Canada,Karachi,Central
+62,Canada,Karachi,East
+63,Canada,Karachi,North
+64,Canada,Karachi,South
+65,Canada,Karachi,West
+66,Canada,London,Central
+67,Canada,London,East
+68,Canada,London,North
+69,Canada,London,South
+70,Canada,London,West
+71,Canada,Mumbai,Central
+72,Canada,Mumbai,East
+73,Canada,Mumbai,North
+74,Canada,Mumbai,South
+75,Canada,Mumbai,West
+76,Canada,New York,Central
+77,Canada,New York,East
+78,Canada,New York,North
+79,Canada,New York,South
+80,Canada,New York,West
+81,Canada,Paris,Central
+82,Canada,Paris,East
+83,Canada,Paris,North
+84,Canada,Paris,South
+85,Canada,Paris,West
+86,Canada,Riyadh,Central
+87,Canada,Riyadh,East
+88,Canada,Riyadh,North
+89,Canada,Riyadh,South
+90,Canada,Riyadh,West
+91,Canada,Sydney,Central
+92,Canada,Sydney,East
+93,Canada,Sydney,North
+94,Canada,Sydney,South
+95,Canada,Sydney,West
+96,Canada,Toronto,Central
+97,Canada,Toronto,East
+98,Canada,Toronto,North
+99,Canada,Toronto,South
+100,Canada,Toronto,West
+101,France,Berlin,Central
+102,France,Berlin,East
+103,France,Berlin,North
+104,France,Berlin,South
+105,France,Berlin,West
+106,France,Dubai,Central
+107,France,Dubai,East
+108,France,Dubai,North
+109,France,Dubai,South
+110,France,Dubai,West
+111,France,Karachi,Central
+112,France,Karachi,East
+113,France,Karachi,North
+114,France,Karachi,South
+115,France,Karachi,West
+116,France,London,Central
+117,France,London,East
+118,France,London,North
+119,France,London,South
+120,France,London,West
+121,France,Mumbai,Central
+122,France,Mumbai,East
+123,France,Mumbai,North
+124,France,Mumbai,South
+125,France,Mumbai,West
+126,France,New York,Central
+127,France,New York,East
+128,France,New York,North
+129,France,New York,South
+130,France,New York,West
+131,France,Paris,Central
+132,France,Paris,East
+133,France,Paris,North
+134,France,Paris,South
+135,France,Paris,West
+136,France,Riyadh,Central
+137,France,Riyadh,East
+138,France,Riyadh,North
+139,France,Riyadh,South
+140,France,Riyadh,West
+141,France,Sydney,Central
+142,France,Sydney,East
+143,France,Sydney,North
+144,France,Sydney,South
+145,France,Sydney,West
+146,France,Toronto,Central
+147,France,Toronto,East
+148,France,Toronto,North
+149,France,Toronto,South
+150,France,Toronto,West
+151,Germany,Berlin,Central
+152,Germany,Berlin,East
+153,Germany,Berlin,North
+154,Germany,Berlin,South
+155,Germany,Berlin,West
+156,Germany,Dubai,Central
+157,Germany,Dubai,East
+158,Germany,Dubai,North
+159,Germany,Dubai,South
+160,Germany,Dubai,West
+161,Germany,Karachi,Central
+162,Germany,Karachi,East
+163,Germany,Karachi,North
+164,Germany,Karachi,South
+165,Germany,Karachi,West
+166,Germany,London,Central
+167,Germany,London,East
+168,Germany,London,North
+169,Germany,London,South
+170,Germany,London,West
+171,Germany,Mumbai,Central
+172,Germany,Mumbai,East
+173,Germany,Mumbai,North
+174,Germany,Mumbai,South
+175,Germany,Mumbai,West
+176,Germany,New York,Central
+177,Germany,New York,East
+178,Germany,New York,North
+179,Germany,New York,South
+180,Germany,New York,West
+181,Germany,Paris,Central
+182,Germany,Paris,East
+183,Germany,Paris,North
+184,Germany,Paris,South
+185,Germany,Paris,West
+186,Germany,Riyadh,Central
+187,Germany,Riyadh,East
+188,Germany,Riyadh,North
+189,Germany,Riyadh,South
+190,Germany,Riyadh,West
+191,Germany,Sydney,Central
+192,Germany,Sydney,East
+193,Germany,Sydney,North
+194,Germany,Sydney,South
+195,Germany,Sydney,West
+196,Germany,Toronto,Central
+197,Germany,Toronto,East
+198,Germany,Toronto,North
+199,Germany,Toronto,South
+200,Germany,Toronto,West
+201,India,Berlin,Central
+202,India,Berlin,East
+203,India,Berlin,North
+204,India,Berlin,South
+205,India,Berlin,West
+206,India,Dubai,Central
+207,India,Dubai,East
+208,India,Dubai,North
+209,India,Dubai,South
+210,India,Dubai,West
+211,India,Karachi,Central
+212,India,Karachi,East
+213,India,Karachi,North
+214,India,Karachi,South
+215,India,Karachi,West
+216,India,London,Central
+217,India,London,East
+218,India,London,North
+219,India,London,South
+220,India,London,West
+221,India,Mumbai,Central
+222,India,Mumbai,East
+223,India,Mumbai,North
+224,India,Mumbai,South
+225,India,Mumbai,West
+226,India,New York,Central
+227,India,New York,East
+228,India,New York,North
+229,India,New York,South
+230,India,New York,West
+231,India,Paris,Central
+232,India,Paris,East
+233,India,Paris,North
+234,India,Paris,South
+235,India,Paris,West
+236,India,Riyadh,Central
+237,India,Riyadh,East
+238,India,Riyadh,North
+239,India,Riyadh,South
+240,India,Riyadh,West
+241,India,Sydney,Central
+242,India,Sydney,East
+243,India,Sydney,North
+244,India,Sydney,South
+245,India,Sydney,West
+246,India,Toronto,Central
+247,India,Toronto,East
+248,India,Toronto,North
+249,India,Toronto,South
+250,India,Toronto,West
+251,Pakistan,Berlin,Central
+252,Pakistan,Berlin,East
+253,Pakistan,Berlin,North
+254,Pakistan,Berlin,South
+255,Pakistan,Berlin,West
+256,Pakistan,Dubai,Central
+257,Pakistan,Dubai,East
+258,Pakistan,Dubai,North
+259,Pakistan,Dubai,South
+260,Pakistan,Dubai,West
+261,Pakistan,Karachi,Central
+262,Pakistan,Karachi,East
+263,Pakistan,Karachi,North
+264,Pakistan,Karachi,South
+265,Pakistan,Karachi,West
+266,Pakistan,London,Central
+267,Pakistan,London,East
+268,Pakistan,London,North
+269,Pakistan,London,South
+270,Pakistan,London,West
+271,Pakistan,Mumbai,Central
+272,Pakistan,Mumbai,East
+273,Pakistan,Mumbai,North
+274,Pakistan,Mumbai,South
+275,Pakistan,Mumbai,West
+276,Pakistan,New York,Central
+277,Pakistan,New York,East
+278,Pakistan,New York,North
+279,Pakistan,New York,South
+280,Pakistan,New York,West
+281,Pakistan,Paris,Central
+282,Pakistan,Paris,East
+283,Pakistan,Paris,North
+284,Pakistan,Paris,South
+285,Pakistan,Paris,West
+286,Pakistan,Riyadh,Central
+287,Pakistan,Riyadh,East
+288,Pakistan,Riyadh,North
+289,Pakistan,Riyadh,South
+290,Pakistan,Riyadh,West
+291,Pakistan,Sydney,Central
+292,Pakistan,Sydney,East
+293,Pakistan,Sydney,North
+294,Pakistan,Sydney,South
+295,Pakistan,Sydney,West
+296,Pakistan,Toronto,Central
+297,Pakistan,Toronto,East
+298,Pakistan,Toronto,North
+299,Pakistan,Toronto,South
+300,Pakistan,Toronto,West
+301,Saudi Arabia,Berlin,Central
+302,Saudi Arabia,Berlin,East
+303,Saudi Arabia,Berlin,North
+304,Saudi Arabia,Berlin,South
+305,Saudi Arabia,Berlin,West
+306,Saudi Arabia,Dubai,Central
+307,Saudi Arabia,Dubai,East
+308,Saudi Arabia,Dubai,North
+309,Saudi Arabia,Dubai,South
+310,Saudi Arabia,Dubai,West
+311,Saudi Arabia,Karachi,Central
+312,Saudi Arabia,Karachi,East
+313,Saudi Arabia,Karachi,North
+314,Saudi Arabia,Karachi,South
+315,Saudi Arabia,Karachi,West
+316,Saudi Arabia,London,Central
+317,Saudi Arabia,London,East
+318,Saudi Arabia,London,North
+319,Saudi Arabia,London,South
+320,Saudi Arabia,London,West
+321,Saudi Arabia,Mumbai,Central
+322,Saudi Arabia,Mumbai,East
+323,Saudi Arabia,Mumbai,North
+324,Saudi Arabia,Mumbai,South
+325,Saudi Arabia,Mumbai,West
+326,Saudi Arabia,New York,Central
+327,Saudi Arabia,New York,East
+328,Saudi Arabia,New York,North
+329,Saudi Arabia,New York,South
+330,Saudi Arabia,New York,West
+331,Saudi Arabia,Paris,Central
+332,Saudi Arabia,Paris,East
+333,Saudi Arabia,Paris,North
+334,Saudi Arabia,Paris,South
+335,Saudi Arabia,Paris,West
+336,Saudi Arabia,Riyadh,Central
+337,Saudi Arabia,Riyadh,East
+338,Saudi Arabia,Riyadh,North
+339,Saudi Arabia,Riyadh,South
+340,Saudi Arabia,Riyadh,West
+341,Saudi Arabia,Sydney,Central
+342,Saudi Arabia,Sydney,East
+343,Saudi Arabia,Sydney,North
+344,Saudi Arabia,Sydney,South
+345,Saudi Arabia,Sydney,West
+346,Saudi Arabia,Toronto,Central
+347,Saudi Arabia,Toronto,East
+348,Saudi Arabia,Toronto,North
+349,Saudi Arabia,Toronto,South
+350,Saudi Arabia,Toronto,West
+351,UAE,Berlin,Central
+352,UAE,Berlin,East
+353,UAE,Berlin,North
+354,UAE,Berlin,South
+355,UAE,Berlin,West
+356,UAE,Dubai,Central
+357,UAE,Dubai,East
+358,UAE,Dubai,North
+359,UAE,Dubai,South
+360,UAE,Dubai,West
+361,UAE,Karachi,Central
+362,UAE,Karachi,East
+363,UAE,Karachi,North
+364,UAE,Karachi,South
+365,UAE,Karachi,West
+366,UAE,London,Central
+367,UAE,London,East
+368,UAE,London,North
+369,UAE,London,South
+370,UAE,London,West
+371,UAE,Mumbai,Central
+372,UAE,Mumbai,East
+373,UAE,Mumbai,North
+374,UAE,Mumbai,South
+375,UAE,Mumbai,West
+376,UAE,New York,Central
+377,UAE,New York,East
+378,UAE,New York,North
+379,UAE,New York,South
+380,UAE,New York,West
+381,UAE,Paris,Central
+382,UAE,Paris,East
+383,UAE,Paris,North
+384,UAE,Paris,South
+385,UAE,Paris,West
+386,UAE,Riyadh,Central
+387,UAE,Riyadh,East
+388,UAE,Riyadh,North
+389,UAE,Riyadh,South
+390,UAE,Riyadh,West
+391,UAE,Sydney,Central
+392,UAE,Sydney,East
+393,UAE,Sydney,North
+394,UAE,Sydney,South
+395,UAE,Sydney,West
+396,UAE,Toronto,Central
+397,UAE,Toronto,East
+398,UAE,Toronto,North
+399,UAE,Toronto,South
+400,UAE,Toronto,West
+401,United Kingdom,Berlin,Central
+402,United Kingdom,Berlin,East
+403,United Kingdom,Berlin,North
+404,United Kingdom,Berlin,South
+405,United Kingdom,Berlin,West
+406,United Kingdom,Dubai,Central
+407,United Kingdom,Dubai,East
+408,United Kingdom,Dubai,North
+409,United Kingdom,Dubai,South
+410,United Kingdom,Dubai,West
+411,United Kingdom,Karachi,Central
+412,United Kingdom,Karachi,East
+413,United Kingdom,Karachi,North
+414,United Kingdom,Karachi,South
+415,United Kingdom,Karachi,West
+416,United Kingdom,London,Central
+417,United Kingdom,London,East
+418,United Kingdom,London,North
+419,United Kingdom,London,South
+420,United Kingdom,London,West
+421,United Kingdom,Mumbai,Central
+422,United Kingdom,Mumbai,East
+423,United Kingdom,Mumbai,North
+424,United Kingdom,Mumbai,South
+425,United Kingdom,Mumbai,West
+426,United Kingdom,New York,Central
+427,United Kingdom,New York,East
+428,United Kingdom,New York,North
+429,United Kingdom,New York,South
+430,United Kingdom,New York,West
+431,United Kingdom,Paris,Central
+432,United Kingdom,Paris,East
+433,United Kingdom,Paris,North
+434,United Kingdom,Paris,South
+435,United Kingdom,Paris,West
+436,United Kingdom,Riyadh,Central
+437,United Kingdom,Riyadh,East
+438,United Kingdom,Riyadh,North
+439,United Kingdom,Riyadh,South
+440,United Kingdom,Riyadh,West
+441,United Kingdom,Sydney,Central
+442,United Kingdom,Sydney,East
+443,United Kingdom,Sydney,North
+444,United Kingdom,Sydney,South
+445,United Kingdom,Sydney,West
+446,United Kingdom,Toronto,Central
+447,United Kingdom,Toronto,East
+448,United Kingdom,Toronto,North
+449,United Kingdom,Toronto,South
+450,United Kingdom,Toronto,West
+451,United States,Berlin,Central
+452,United States,Berlin,East
+453,United States,Berlin,North
+454,United States,Berlin,South
+455,United States,Berlin,West
+456,United States,Dubai,Central
+457,United States,Dubai,East
+458,United States,Dubai,North
+459,United States,Dubai,South
+460,United States,Dubai,West
+461,United States,Karachi,Central
+462,United States,Karachi,East
+463,United States,Karachi,North
+464,United States,Karachi,South
+465,United States,Karachi,West
+466,United States,London,Central
+467,United States,London,East
+468,United States,London,North
+469,United States,London,South
+470,United States,London,West
+471,United States,Mumbai,Central
+472,United States,Mumbai,East
+473,United States,Mumbai,North
+474,United States,Mumbai,South
+475,United States,Mumbai,West
+476,United States,New York,Central
+477,United States,New York,East
+478,United States,New York,North
+479,United States,New York,South
+480,United States,New York,West
+481,United States,Paris,Central
+482,United States,Paris,East
+483,United States,Paris,North
+484,United States,Paris,South
+485,United States,Paris,West
+486,United States,Riyadh,Central
+487,United States,Riyadh,East
+488,United States,Riyadh,North
+489,United States,Riyadh,South
+490,United States,Riyadh,West
+491,United States,Sydney,Central
+492,United States,Sydney,East
+493,United States,Sydney,North
+494,United States,Sydney,South
+495,United States,Sydney,West
+496,United States,Toronto,Central
+497,United States,Toronto,East
+498,United States,Toronto,North
+499,United States,Toronto,South
+500,United States,Toronto,West
